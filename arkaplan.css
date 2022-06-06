@@ -1,0 +1,103 @@
+body {
+        background-color: #d7eef7;
+        font-family: "Sofia", sans-serif;
+        font-size: 0.9em;
+        margin-top: 0px;
+        margin-bottom: 0px;
+       
+               
+}
+
+#menu{
+        text-align: center;
+        background-image: url('/resimler/back-1.png') ;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+        color: azure;
+        font-size: 30px;
+        background-color: #d7eef7;
+        padding: 5px 5px 15px 55px;
+}
+
+#menu ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+}
+
+#menu ul li {
+        float: left;
+}
+
+.temizle {
+        clear: both;
+}
+
+#menu ul li a {
+        display: block;
+        line-height: 20px;
+        background-color: none;
+        color: rgb(255, 0, 0); 
+        padding: 0px 60px;
+        text-decoration:none ;
+        font-weight: bold;
+        margin-right: 50px;
+}
+
+#menu ul li a:hover {
+        background:none;
+        color: #fff;
+}
+
+#sayfa{
+        
+        margin:0px auto;
+        border: 1 px solid #fff
+}
+
+#iceriksol {
+        width: 200px;
+        float: left;
+        /* padding: 35px 0px 0px 55px; */
+        text-decoration:none ;    
+}
+
+#iceriksag {
+        width: 750px;
+        float: left;
+        color: rgb(255, 0, 0);
+        text-align: center;
+        background-color: #d7eef7;
+        font-weight: bold;
+        font-size: 30px;
+}
+
+#alt {
+        
+        text-align: center;
+}
+
+#alt ul {
+        list-style-type: none;
+        
+}
+#alt ul li {
+        float: left;
+}
+
+.temizle {
+        clear: both;
+}
+
+#alt ul li a {
+        margin-left: 10%;
+        margin-right:10%;
+        display: block;
+        
+        background-color: none;
+       
+        text-decoration:none ;
+      
+}
+

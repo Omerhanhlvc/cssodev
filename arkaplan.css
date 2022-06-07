@@ -51,7 +51,7 @@ body {
 }
 
 #sayfa{
-        
+        width: 950px;
         margin:0px auto;
         border: 1 px solid #fff
 }
@@ -66,9 +66,9 @@ body {
 #iceriksag {
         width: 750px;
         float: left;
-        color: rgb(255, 0, 0);
+        color: rgb(248, 58, 0);
         text-align: center;
-        background-color: #d7eef7;
+        background-color: #f54e00;
         font-weight: bold;
         font-size: 30px;
 }
@@ -91,8 +91,8 @@ body {
 }
 
 #alt ul li a {
-        margin-left: 10%;
-        margin-right:10%;
+        margin-left: auto;
+        margin-right:auto;
         display: block;
         
         background-color: none;
